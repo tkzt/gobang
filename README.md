@@ -50,6 +50,8 @@
 
 [AI五子棋在这里。](https://yoghurtoreo.com/2019/01/29/8_The_Damned_Gobang/)
 
+[以及这里（源码）。](https://github.com/YoghurtOreo/Gobang)
+
 #### 另外
 
 也尝试着将原理、优化过程写出来，但我太菜，写不好。以后有机……算了，我是鸽子。
