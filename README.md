@@ -48,3 +48,9 @@
 
 [赢棋回放在这里。](https://www.bilibili.com/video/av42735395)
 
+[AI五子棋在这里](https://yoghurtoreo.com/2019/01/29/8_The_Damned_Gobang/)
+
+#### 另外
+
+也尝试着将原理、优化过程写出来，但我太菜，写不好。以后有机……算了，我是鸽子。
+
