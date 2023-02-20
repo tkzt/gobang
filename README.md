@@ -48,7 +48,7 @@
 
 [赢棋回放在这里。](https://www.bilibili.com/video/av42735395)
 
-[AI五子棋在这里。](https://boring-plans.github.io/gobang/)
+[AI五子棋在这里。](https://tkzt.github.io/gobang/)
 
 [以及这里（源码）。](https://github.com/YoghurtOreo/Gobang)
 
